@@ -1,1 +1,1 @@
-# Empty project (React hooks)
+# Calculator of optimal artifact repairment for the online game heroeswm
